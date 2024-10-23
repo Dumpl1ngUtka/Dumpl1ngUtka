@@ -24,7 +24,7 @@
 ### My statistics
 
 <div id="stat" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&hide=contribs,prs&theme=gotham" alt="Dumpl1ngUtka"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gotham" alt="Dumpl1ngUtka"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" alt="Dumpl1ngUtka" />
 </div>
 
