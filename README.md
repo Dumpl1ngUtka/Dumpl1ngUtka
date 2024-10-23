@@ -19,12 +19,8 @@
 ### My statistics
 
 <div id="stat" align="center"style="width: 1000px;  height: 600px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Dumpl1ngUtka" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" alt="Dumpl1ngUtka" height="200"/>
-</div>
-
-<div style="width: 1000px; height: 600px;">
-    <img src="#" width="50%" height="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Dumpl1ngUtka" height="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" alt="Dumpl1ngUtka" height="100%"/>
 </div>
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
