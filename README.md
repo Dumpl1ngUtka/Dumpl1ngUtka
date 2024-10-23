@@ -18,12 +18,7 @@
   
 ### My statistics
 
-<div id="stat" align="center"style="width:100%;  height: 600px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Dumpl1ngUtka" height="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" alt="Dumpl1ngUtka" height="100%"/>
-</div>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Anurag's github stats" height="100%"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" height="100%"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Anurag's github stats" height="400"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham" height="400"/></a> |
 | ------------- | ------------- |
 
 <!--
