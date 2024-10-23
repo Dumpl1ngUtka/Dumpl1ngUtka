@@ -25,8 +25,8 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=graywhite" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=graywhite" alt=""/>
-  ![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite)
 </div>
+  ![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite)
 
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
