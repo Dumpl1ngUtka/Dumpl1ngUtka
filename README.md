@@ -2,11 +2,6 @@
   <h1>Hi there, I'm Damir</h1>
   <h3>Unity/C# Developer</h3>
 </div>
-<div id="socials" align="center">
-  <a href="https://web.telegram.org/k/#@Dumpling_Utka">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
 
 ### 🔗Connect with me
 <p align="left">
