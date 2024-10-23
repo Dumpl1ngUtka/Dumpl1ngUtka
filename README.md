@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="visualstudio" width="40" height="40"/>&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=unity&logoColor=white" title="photoshop" width="40" height="40" />&nbsp;
+  <img alt="React" src="https://img.shields.io/badge/-gray?style=flat-square&logo=unity&logoColor=white" title="photoshop" width="40" height="40" />&nbsp;
   
 ### My statistics
 
