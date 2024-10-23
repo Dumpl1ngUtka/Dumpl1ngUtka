@@ -23,11 +23,9 @@
 ### My statistics
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=graywhite" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=graywhite" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dumpl1ngUtka&theme=graywhite" alt="Dumpl1ngUtka"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Dumpl1ngUtka" />
 </div>
-markdown
-  ![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite)
 
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
