@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align = "center">
+<h1>Hi there, I'm Damir</h1>
+<h3>Unity/C# Developer</h3>
+</div>
 
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
