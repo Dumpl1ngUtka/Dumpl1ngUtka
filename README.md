@@ -24,8 +24,8 @@
 ### My statistics
 
 <div id="stat" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dumpl1ngUtka&theme=graywhite" alt="Dumpl1ngUtka"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Dumpl1ngUtka" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dumpl1ngUtka&theme=gotham" alt="Dumpl1ngUtka"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham&layout=compact" alt="Dumpl1ngUtka" />
 </div>
 
 <!--
