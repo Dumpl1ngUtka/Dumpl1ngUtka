@@ -14,7 +14,7 @@
   <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
   <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="photoshop" width="40" height="40"/>&nbsp;
   <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="visualstudio" width="40" height="40"/>&nbsp;
-  <img  width="50" height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/unity.svg/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/unity/black/white"/>&nbsp;
   
 ### My statistics
 
