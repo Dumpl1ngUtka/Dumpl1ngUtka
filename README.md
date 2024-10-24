@@ -25,8 +25,8 @@
 
 <table id= "Profile" border-style="hidden">
     <tr>
-      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" height="20%"/></td>
-      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" width="100%" height="60%"/></td>
+      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></td>
+      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></td>
     </tr>
 </table>
 <!--
