@@ -25,6 +25,15 @@
 
 | <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" height="200"/></a> | <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" height="200"/></a> |
 | ------------- | ------------- |
+
+<div width="300px" text-align="center" margin= "0 auto" background="white">
+  <img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true">
+  <div class="product-list">
+    <h3>Маленькое черное платье</h3>
+      <span class="price">₽ 1999</span>
+      <a href="" class="button">В корзину</a>
+  </div>
+</div>
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
