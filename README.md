@@ -26,8 +26,8 @@
 <table id= "Profile" border-style="hidden">
   <tbody>
     <tr>
-      <td align="center" valign="top" width="45%"><a><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="100%" height="80%"/><br /></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="45%"><a><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" width="100%" height="80%"/><br /></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="45%"><a><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="100%" height="20%"/><br /></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="45%"><a><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" width="100%" height="60%"/><br /></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
     </tr>
 </tbody>
 </table>
