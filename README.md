@@ -23,10 +23,11 @@
 
 <img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="600"/>&nbsp;
 
-<table id= "Profile" border-style="hidden">
+<table id= "Profile" align="center">
     <tr>
-      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></td>
-      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></td>
     </tr>
 </table>
 <!--
