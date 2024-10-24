@@ -5,16 +5,15 @@
 
 ### 🔗Connect with me
 <p align="left">
-<a href="https://web.telegram.org/k/#@Dumpling_Utka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/telegram/black/white"/></a>
+<a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/vk/black/white"/></a>
   
 ### Languages and tools
-  <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
-  <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
-  <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
-  <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="photoshop" width="40" height="40"/>&nbsp;
-  <img href="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="visualstudio" width="40" height="40"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/unity/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/blender/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/photoshop/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudio/black/white"/>&nbsp;
   
 ### My statistics
 
