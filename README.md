@@ -31,6 +31,13 @@
     </tr>
 </tbody>
 </table>
+
+   <table width="60%" border="1">
+    <tr>
+     <td valign="top" height="200">Выравнивание по верхнему краю</td>
+     <td valign="bottom">Выравнивание по нижнему краю</td>  
+    </tr> 
+   </table> 
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
