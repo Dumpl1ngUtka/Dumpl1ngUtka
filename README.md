@@ -23,9 +23,9 @@
 
 <table id= "Profile" align="center">
     <tr>
-      <td href="https://github.com/Limofeus/Australitet" align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></td>
-      <td align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></td>
-      <td align="center" valign="top" width="33%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></td>
+      <td align="center" valign="top" width="33%"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></td>
     </tr>
 </table>
 <!--
