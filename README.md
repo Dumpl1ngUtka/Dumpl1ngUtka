@@ -23,7 +23,7 @@
 
 <img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="600"/>&nbsp;
 
-| <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" height="200"  width="600"/></a> | <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" height="200"  width="600"/></a> |
+| <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" height="200"/></a> | <a><img align="center" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" height="200"/></a> |
 | ------------- | ------------- |
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
