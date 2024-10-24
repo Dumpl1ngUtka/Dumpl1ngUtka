@@ -12,7 +12,7 @@
   <img height="50" width="50" src="https://cdn.simpleicons.org/unity/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/blender/black/white"/>&nbsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/photoshop/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/adobephotoshop/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudio/black/white"/>&nbsp;
   
 ### My statistics
