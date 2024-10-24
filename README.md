@@ -24,20 +24,11 @@
 <img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="600"/>&nbsp;
 
 <table id= "Profile" border-style="hidden">
-  <tbody>
     <tr>
-      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" width="100%" height="20%"/></td>
+      <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true" height="20%"/></td>
       <td align="center" valign="top" width="45%"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true" width="100%" height="60%"/></td>
     </tr>
-</tbody>
 </table>
-
-   <table width="60%" border="1">
-    <tr>
-     <td valign="top" height="200">Выравнивание по верхнему краю</td>
-     <td valign="bottom">Выравнивание по нижнему краю</td>  
-    </tr> 
-   </table> 
 <!--
 **Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
