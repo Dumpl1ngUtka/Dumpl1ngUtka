@@ -1,4 +1,3 @@
-<style>
     .sliderbody {
     max-width: 750px;
     max-height: 550px;
@@ -80,7 +79,6 @@
     font-size: 0;
     outline: 0;
   }  
-</style>
 
 <div id="header" align = "center">
   <h1>Hi there, I'm Damir</h1>
