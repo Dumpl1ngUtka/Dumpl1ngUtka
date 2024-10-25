@@ -33,11 +33,7 @@
 ### dsaad 
 
 <br>
-
 | Badge | Name | How to get |
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | ![Heart On Your Sleeve](/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png) | Heart On Your Sleeve | (???) |
-
-
-
 <br>
