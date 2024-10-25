@@ -32,7 +32,7 @@
 
 ### dsaad 
 
-<br>
+<br align="center">
 
 | Badge | Name | How to get |
 | :-: | :-: | :-: |
