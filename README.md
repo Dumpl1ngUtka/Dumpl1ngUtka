@@ -3,7 +3,7 @@
   <h3>Unity/C# Developer</h3>
 </div>
 
-### 🔗Connect with me
+### Connect with me
 <p align="left">
 <a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/telegram/black/white"/></a>
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/vk/black/white"/></a>
@@ -27,17 +27,3 @@
       <td align="center" valign="top" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
     </tr>
 </table>
-<!--
-**Dumpl1ngUtka/Dumpl1ngUtka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
