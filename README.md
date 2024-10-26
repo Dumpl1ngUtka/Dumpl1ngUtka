@@ -43,7 +43,7 @@
     </tr>
 </table>
 
-<table align="center">
+<table align="center" width=100>
     <tr>
       <td align="center" valign="center" width="100"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
     </tr>
