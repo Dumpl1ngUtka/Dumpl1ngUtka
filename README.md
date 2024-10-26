@@ -43,7 +43,7 @@
     </tr>
 </table>
 
-<table align="center" width="99%">
+<table align="center" width="99">
     <tr>
       <td align="center" valign="center" width="99%"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=gotham"/></a></td>
     </tr>
