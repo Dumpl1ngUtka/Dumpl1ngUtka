@@ -34,7 +34,7 @@
 
 <div align="center">
   
-  | Badge | Name | How to get |
+  | Australitet | Tank Sim | Dungeon & Ducks |
   | :-: | :-: | :-: |
   |<img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/>| <img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/> | <img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/> |
 
