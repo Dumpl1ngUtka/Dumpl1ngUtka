@@ -2,12 +2,13 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff9e2b&text=Hi,%20my%20name%20is%20Damir&fontColor=161616&desc=Unity/Csharp%20developer&descAlign=62&descAlignY=58&descSize=45&fontAlignY=33&fontAlign=50"/>
 </p>
 
-### Connect with me
-<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=161616&text=Connect%20with%20me&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=17&fontAlignY=50&animation=fadeIn&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=35">
+
 <a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/telegram-1.svg"/></a>
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/vk-1.svg"/></a>
-  
-### Languages and tools
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=161616&text=Languages%20and%20tools&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=20&fontAlignY=50&animation=fadeIn&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=35">
+
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/unity-69.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/c--4.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/blender-2.svg"/>&nbsp;
