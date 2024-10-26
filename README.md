@@ -5,15 +5,15 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/telegram/black/white"/></a>
-<a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/vk/black/white"/></a>
+<a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/telegram-1.svg"/></a>
+<a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/vk-1.svg"/></a>
   
 ### Languages and tools
+  <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/unity-69.svg"/>&nbsp;
+  <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/c--4.svg"/>&nbsp;
+  <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/blender-2.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/adobe-photoshop-2.svg"/>&nbsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/black/white"/>&nbsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/blender/black/white"/>&nbsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/adobephotoshop/black/white"/>&nbsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudio/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/substance-3d-painter-1.svg"/>&nbsp;
   
 ### My statistics
 
