@@ -39,9 +39,11 @@
 
 <table align="center">
     <tr>
-      <td align="center" valign="center" width="49%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
       <td align="center" valign="center" width="49%">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=compact&theme=dark" height="200"/></a> 
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=donut-vertical&theme=dark" height="200"/></a> 
+      </td>
+      <td align="center" valign="center" width="49%">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=donut-vertical&theme=dark" height="200"/></a> 
         <br>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dumpl1ngUtka&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" height="200"/></a>
       </td>
