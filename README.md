@@ -35,6 +35,19 @@
     </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dumpl1ngUtka&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+### asda sd asd 
+<table id= "Profile" align="center">
+    <tr>
+      <td align="center" valign="center" width="99%"><a>
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dumpl1ngUtka&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+      </a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
+    </tr>
+</table>
+
+
 
