@@ -1,7 +1,6 @@
-<div id="header" align = "center">
-  <h1>Hi there, I'm Damir</h1>
-  <h3>Unity/C# Developer</h3>
-</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff9e2b&text=Hi,%20my%20name%20is%20Damir&fontColor=161616&desc=Unity/Csharp%20developer&descAlign=62&descAlignY=58&descSize=45&fontAlignY=33&fontAlign=50"/>
+</p>
 
 ### Connect with me
 <p align="left">
@@ -15,6 +14,21 @@
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/adobe-photoshop-2.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/substance-3d-painter-1.svg"/>&nbsp;
   
+### Most interesting projects
+
+<table id= "Profile" align="center">
+    <tr>
+      <td align="center" valign="top" width="33%"><a>Australitet</a></td>
+      <td align="center" valign="top" width="33%"><a>Tank Biathlon VR</a></td>
+      <td align="center" valign="top" width="33%"><a>Dungeons & Ducks</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
+    </tr>
+</table>
+
 ### My statistics
 
 <table align="center">
@@ -30,20 +44,6 @@
     </tr>
 </table>
 
-### Most interesting projects
-
-<table id= "Profile" align="center">
-    <tr>
-      <td align="center" valign="top" width="33%"><a>Australitet</a></td>
-      <td align="center" valign="top" width="33%"><a>Tank Biathlon VR</a></td>
-      <td align="center" valign="top" width="33%"><a>Dungeons & Ducks</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
-      <td align="center" valign="center" width="33%"><a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/></a></td>
-      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
-    </tr>
-</table>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9e2b&height=100&section=footer"/>
