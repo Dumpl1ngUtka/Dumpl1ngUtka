@@ -9,7 +9,7 @@
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/vk/black/white"/></a>
   
 ### Languages and tools
-  <img height="50" width="50" src="https://cdn.simpleicons.org/unity/black/white"/>&nbsp;
+  <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/adobe-photoshop-2.svg"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/blender/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/adobephotoshop/black/white"/>&nbsp;
