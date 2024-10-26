@@ -9,6 +9,13 @@
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://cdn.simpleicons.org/vk/black/white"/></a>
   
 ### Languages and tools
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="a" src="https://img.shields.io/badge/just%20the%20message-8A2BE2"/>
+
   <img height="50" width="50" src="https://cdn.simpleicons.org/unity/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/black/white"/>&nbsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/blender/black/white"/>&nbsp;
