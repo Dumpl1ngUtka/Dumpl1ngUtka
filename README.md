@@ -18,9 +18,9 @@
 
 <table id= "Profile" align="center">
     <tr>
-      <td align="center" valign="top" width="33%"><a>Australitet</a></td>
-      <td align="center" valign="top" width="33%"><a>Tank Biathlon VR</a></td>
-      <td align="center" valign="top" width="33%"><a>Dungeons & Ducks</a></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Australitet&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Tank%20Biathlon%20VR&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Dungeons%20and%20Ducks&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
     </tr>
     <tr>
       <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
