@@ -36,7 +36,7 @@
 </table>
 
 ### asda sd asd 
-<table align="center" width="99%">
+<table align="center" width="500px">
     <tr>
       <td align="center" valign="center" width="49"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dumpl1ngUtka&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6""/></a></td>
       <td align="center" valign="center" width="49%"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&theme=gotham" alt="Anurag's github stats" /></a></td>
