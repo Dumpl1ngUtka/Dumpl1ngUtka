@@ -36,3 +36,18 @@
 </table>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId"></svg>
+
+<table align="center">
+    <tr>
+      <td align="center" valign="center" width="49%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="49%">
+        <a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank">
+          <img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/>
+        </a>
+        <br>
+        <a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank">
+          <img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/>
+        </a>
+      </td>
+    </tr>
+</table>
