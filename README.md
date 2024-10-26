@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
-      <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/></a></td>
+      <td align="center" valign="center" width="33%"><a href="https://github.com/Dumpl1ngUtka/Tank-Simulator-VR" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Tank%20Biathlon/0.png?raw=true"/></a></td>
       <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
     </tr>
 </table>
