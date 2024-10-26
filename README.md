@@ -24,7 +24,7 @@
 
 <table id= "Profile" align="center">
     <tr>
-      <td align="center" valign="top" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></a><br><a href="https://github.com/Limofeus/Australitet" target="blank">Australitet</a></td>
+      <td align="center" valign="top" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/0.png?raw=true"/></a><br><h3>Australitet</h3></td>
       <td align="center" valign="top" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/1.png?raw=true"/></a></td>
       <td align="center" valign="top" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img href="https://github.com/Limofeus/Australitet" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
     </tr>
