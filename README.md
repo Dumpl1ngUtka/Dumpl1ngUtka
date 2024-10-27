@@ -2,7 +2,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:24132f,25:304869,50:408197,75:304869,100:24132f&height=300&text=Hi,%20my%20name%20is%20Damir&fontColor=ffffff&desc=Unity/Csharp%20developer&descAlign=62&descAlignY=58&descSize=45&fontAlignY=33&fontAlign=50"/>
 </p>
 
-## Connect with me
+## Contact me
 
 <a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/telegram-1.svg"/></a>
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/vk-1.svg"/></a>
