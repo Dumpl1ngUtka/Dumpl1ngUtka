@@ -2,12 +2,12 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:24132f,25:304869,50:408197,75:304869,100:24132f&height=300&text=Hi,%20my%20name%20is%20Damir&fontColor=ffffff&desc=Unity/Csharp%20developer&descAlign=62&descAlignY=58&descSize=45&fontAlignY=33&fontAlign=50"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=161616&text=Connect%20with%20me&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=17&fontAlignY=50&animation=fadeIn&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=35">
+## Connect with me
 
 <a href="https://t.me/Dumpling_Utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/telegram-1.svg"/></a>
 <a href="https://vk.com/dumpl1ng_utka" target="blank"><img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/vk-1.svg"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=161616&text=Languages%20and%20tools&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=20&fontAlignY=50&animation=fadeIn&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=35">
+## Languages and tools
 
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/unity-69.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/c--4.svg"/>&nbsp;
@@ -15,13 +15,13 @@
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/adobe-photoshop-2.svg"/>&nbsp;
   <img height="50" width="50" src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/icons/substance-3d-painter-1.svg"/>&nbsp;
   
-### Most interesting projects
+## Most interesting projects
 
 <table id= "Profile" align="center">
     <tr>
-      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Australitet&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
-      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Tank%20Biathlon%20VR&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
-      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=161616&text=Dungeons%20and%20Ducks&section=header&reversal=false&fontColor=ff9e2b&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=70"></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:24132f,75:304869,100:408197&text=Australitet&section=header&reversal=false&fontColor=ffffff&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=50"></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=304869&text=Tank%20Biathlon%20VR&section=header&reversal=false&fontColor=ffffff&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=50"></td>
+      <td ><img src="https://capsule-render.vercel.app/api?type=soft&height=75&color=0:408197,25:304869,100:24132f&text=Dungeons%20and%20Ducks&section=header&reversal=false&fontColor=ffffff&textBg=false&fontAlign=50&fontAlignY=50&rotate=0&descAlignY=54&descSize=45&descAlign=62&fontSize=50"></td>
     </tr>
     <tr>
       <td align="center" valign="center" width="33%"><a href="https://github.com/Limofeus/Australitet" target="blank"><img src="https://github.com/Dumpl1ngUtka/Dumpl1ngUtka/blob/main/image/Australitet/2.png?raw=true"/></a></td>
@@ -30,7 +30,7 @@
     </tr>
 </table>
 
-### My statistics
+## My statistics
 
 <table align="center">
     <tr>
