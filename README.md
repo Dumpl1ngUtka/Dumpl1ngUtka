@@ -35,12 +35,12 @@
 <table align="center">
     <tr>
       <td align="center" valign="center" width="43%">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=donut-vertical&theme=dark&icon_color=ffffff&bg_color=0,24132f,304869,304869,408197&text_color=ffffff&title_color=ffffff&border_color=ffffff&border_radius=15&ring_color=ff8a00" height="410"/></a> 
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumpl1ngUtka&layout=donut-vertical&theme=dark&icon_color=ffffff&bg_color=0,24132f,304869,304869,408197&text_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true&border_radius=15&ring_color=ff8a00" height="410"/></a> 
       </td>
       <td align="center" valign="center" width="57%">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&bg_color=60,408197,304869,24132f&border_radius=15&theme=ambient_gradient&custom_title=My%20GitHub%20Stats" height="200"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dumpl1ngUtka&show_icons=true&bg_color=60,408197,304869,24132f&border_radius=15&theme=ambient_gradient&custom_title=My%20GitHub%20Stats&hide_border=true" height="200"/></a> 
         <br><br>
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dumpl1ngUtka&theme=cobalt2&background=40%2C408197%2C24132F&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15&height=200"/></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dumpl1ngUtka&theme=cobalt2&background=40%2C408197%2C24132F&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15&height=200&hide_border=true"/></a>
       </td>
     </tr>
 </table>
